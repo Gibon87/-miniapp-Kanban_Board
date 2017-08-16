@@ -1,8 +1,8 @@
-![kanban board](https://user-images.githubusercontent.com/28759821/29361082-3e371a74-8286-11e7-8869-eb4db856661a.jpg)
-
-
 <h1>Kanban Board App</h1>
 <p>Kanban board will help you to remember things and stay more productive. If you can't imagine your life without sticky notes you will appreciate this app. By the way, if you can't live without real sticky notes that means you are a dinosaur. Don't be so ancient ;) </p>
+
+![kanban board](https://user-images.githubusercontent.com/28759821/29361082-3e371a74-8286-11e7-8869-eb4db856661a.jpg)
+
 
 <ul>
   <li>Click here to use the <a href="https://radoslawperczynski.github.io/-miniapp-Kanban_Board/" target="_blank"> Live Demo </a></li>
