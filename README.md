@@ -16,7 +16,7 @@ Feel free to:
   <li>Add and delete cards (button)</li>
   <li>Move cards inside the column</li>
   <li>Move cards between the columns</li>
-  <li>Drag and drog entire columns</li>
+  <li>Drag and drop entire columns</li>
 </ul>
 
 <h2>Used:</h2>
